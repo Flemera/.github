@@ -43,8 +43,7 @@ Whether you're looking to play casually with friends or explore modded worlds, F
 ## 🔗 Useful Links
 
 - **Website** *(coming soon)*
-- **Discord:** https://discord.gg/vuPKgcHhUX  
-- **Minecraft Launcher:** https://github.com/Flemera/FlemeraMC-Launcher  
+- **Discord:** https://discord.gg/vuPKgcHhUX
 - **Issues / Suggestions:** Use the issue tracker of the relevant project
 
 ---
