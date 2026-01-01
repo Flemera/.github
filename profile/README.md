@@ -1,73 +1,26 @@
-<!--
-<div align="center">
-  <img src="https://raw.githubusercontent.com/Flemera/.github/main/profile/flemera_banner.png" width="70%" alt="Flemera Banner">
-</div>
+# Flemera Web
 
-<br/>-->
+This repository contains the source code of **Flemera's official website**, built to present the project, serve documentation, and provide entry points to the Flemera ecosystem.
 
-# Flemera
 
-**Flemera is a community-driven game hosting project operated by Hexoraw, providing free access to multiplayer servers across multiple games — starting with Minecraft.**
+## 🌐 Purpose
 
-Our goal is to make online gaming more accessible by offering stable, high-performance servers with zero subscription fees.  
-Whether you're looking to play casually with friends or explore modded worlds, Flemera delivers a plug-and-play experience.
+The website acts as:
+- A public home page for Flemera
+- A hub linking to servers, tools, and projects
+- A reference point for announcements and community access
 
----
+## 📨 Feedback
 
-## 🎮 What We Offer
+Website-specific issues (UI, content, bugs)
+👉 https://github.com/Flemera/flemera-web/issues
 
-- **Free public game servers**  
-  Currently focusing on Minecraft, with more games coming soon
-
-- **Modded & Vanilla gameplay options**  
-  Curated experiences designed for long-term worlds
-
-- **Custom launchers & tools**  
-  Easy onboarding — just install and play
-
-- **Community-first approach**  
-  Player feedback guides development and server updates
-
----
-
-## 🚀 Active Projects
-
-| Project | Description | Status |
-|---------|-------------|--------|
-| **FlemeraMC Launcher** | Custom Minecraft launcher for connecting to Flemera servers | 🟢 Active |
-| **Public Minecraft Servers** | Modded + vanilla servers with automatic client setup | 🟢 Running |
-| **Upcoming Game Servers** | Expanding to more supported games | 🟡 Planned |
-
----
-
-## 🔗 Useful Links
-
-- **Website** *(coming soon)*
-- **Discord:** https://discord.gg/vuPKgcHhUX
-- **Issues / Suggestions:** Use the issue tracker of the relevant project
-
----
-
-## 🤝 Contributing
-
-We welcome contributions — especially improvements to our launcher, mods compatibility, and server configurations.
-
----
+General Flemera feedback
+👉 https://github.com/Flemera/.github/issues
 
 ## 📜 License
 
-Most Flemera projects are open source with community-friendly licenses.  
-Check each repository for specific details.
+The website is released under the repository's license.
+Other Flemera projects may differ — see each repo individually.
 
----
-
-## 💬 Contact
-
-Want to host a server with us, collaborate, or ask questions?  
-→ Join the **Discord community** and reach out!
-
----
-
-<div align="center">
-  ❤️ Powered by <a href="https://hexoraw.com"><b>Hexoraw</b></a> — built for players, by players
-</div>
+<div align="center"> ❤️ Powered by <a href="https://hexoraw.com"><b>Hexoraw</b></a> — built for players, by players </div>
