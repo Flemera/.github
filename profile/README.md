@@ -27,13 +27,13 @@ Whether you're looking to play casually with friends or explore modded worlds, F
 
 | Project | Description | Status |
 |---------|-------------|--------|
-| **FlemeraMC Launcher** | Custom Minecraft launcher for connecting to Flemera servers | 🟢 Active |
-| **Public Minecraft Servers** | Modded + vanilla servers with automatic client setup | 🟢 Running |
+| **FlemeraMC Launcher** | Custom Minecraft launcher for connecting to Flemera servers | 🔵 Upcoming |
+| **Public Minecraft Servers** | Modded + Vanilla Minecraft servers | 🔵 Upcoming |
 | **Upcoming Game Servers** | Expanding to more supported games | 🟡 Planned |
 
 ## 🔗 Useful Links
 
-- **Website** *(coming soon)*
+- **Website:** https://flemera.top/
 - **Discord:** https://discord.gg/vuPKgcHhUX
 
 - **Issues / Suggestions:** Use the issue tracker of the relevant project
