@@ -2,8 +2,6 @@
   <img src="https://raw.githubusercontent.com/Flemera/.github/main/profile/Flemera_Banner_Rounded.png" width="95%" alt="Flemera Banner">
 </div>
 
-<br/>
-
 # 🔥 Flemera
 
 **Flemera is a community-driven game hosting project operated by Hexoraw, providing free access to multiplayer servers across multiple games — starting with Minecraft.**
