@@ -1,6 +1,6 @@
 <!--
 <div align="center">
-  <img src="https://raw.githubusercontent.com/Flemera/.github/main/profile/flemera_banner.png" width="70%" alt="Flemera Banner">
+  <img src="https://raw.githubusercontent.com/Flemera/.github/main/profile/Flemera_Banner.png" width="70%" alt="Flemera Banner">
 </div>
 
 <br/>-->
